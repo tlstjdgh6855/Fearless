@@ -1,0 +1,10 @@
+C:\Users\ST13\source\repos\fom2\fom2\obj\Debug\fom2.csproj.AssemblyReference.cache
+C:\Users\ST13\source\repos\fom2\fom2\obj\Debug\fom2.Form1.resources
+C:\Users\ST13\source\repos\fom2\fom2\obj\Debug\fom2.Properties.Resources.resources
+C:\Users\ST13\source\repos\fom2\fom2\obj\Debug\fom2.csproj.GenerateResource.cache
+C:\Users\ST13\source\repos\fom2\fom2\obj\Debug\fom2.csproj.CoreCompileInputs.cache
+C:\Users\ST13\source\repos\fom2\fom2\bin\Debug\fom2.exe.config
+C:\Users\ST13\source\repos\fom2\fom2\bin\Debug\fom2.exe
+C:\Users\ST13\source\repos\fom2\fom2\bin\Debug\fom2.pdb
+C:\Users\ST13\source\repos\fom2\fom2\obj\Debug\fom2.exe
+C:\Users\ST13\source\repos\fom2\fom2\obj\Debug\fom2.pdb
