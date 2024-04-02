@@ -19,6 +19,7 @@ namespace fom2
     {
         static int xxx = 0;
         static int b = 0;
+        static int c = 0;
 
         public Form1()
         {
